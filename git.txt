@@ -15,5 +15,6 @@ cat XXX.txt
 git reflog
 git checkout -- XXX.txt
 git reset HEAD XXX.txt
+git push origin master
 
 
