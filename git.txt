@@ -4,4 +4,6 @@ git add XXXX.txt
 git commit -m "The notice!!"
 git status
 git diff  XX.txt
+git log
+
 
