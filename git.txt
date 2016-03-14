@@ -10,5 +10,5 @@ git reset --hard HEAD
 git reset --hard HEAD^
 git reset --hard HEAD^^
 git reset --hard HEAD~100
-
+belive me
 
