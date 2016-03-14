@@ -11,4 +11,9 @@ git reset --hard HEAD^
 git reset --hard HEAD^^
 git reset --hard HEAD~100
 belive me
+cat XXX.txt
+git reflog
+git checkout -- XXX.txt
+git reset HEAD XXX.txt
+
 
